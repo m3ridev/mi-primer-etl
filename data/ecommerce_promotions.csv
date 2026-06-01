@@ -1,0 +1,11 @@
+promotion_id,promotion_code,promotion_name,promotion_type,discount_value,min_order_amount,max_uses,current_uses,start_date,end_date,is_active
+1,PROMOA73987,Promoción 1,fixed_amount,46,990,7827,325,2024-05-12,2024-08-01,true
+2,PROMO180F6C,Promoción 2,buy_x_get_y,10,250,8893,199,2024-03-21,2024-05-28,false
+3,PROMO570D77,Promoción 3,fixed_amount,32,190,9442,62,2024-03-09,2024-04-18,true
+4,PROMOF9BD0C,Promoción 4,buy_x_get_y,18,590,7275,208,2024-02-06,2024-04-18,true
+5,PROMO7C6154,Promoción 5,buy_x_get_y,22,840,7584,233,2024-04-18,2024-06-30,false
+6,PROMO0C4289,Promoción 6,percentage,27,250,8622,315,2024-04-13,2024-05-25,false
+7,PROMO356705,Promoción 7,free_shipping,20,260,6456,31,2024-01-19,2024-03-03,false
+8,PROMO2D6C3E,Promoción 8,percentage,17,680,8608,482,2024-03-14,2024-06-07,false
+9,PROMO2C56FC,Promoción 9,free_shipping,25,250,5603,143,2024-01-28,2024-04-25,true
+10,PROMOC8E212,Promoción 10,free_shipping,33,450,2068,104,2024-03-20,2024-06-06,false

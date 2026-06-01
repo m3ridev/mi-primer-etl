@@ -1,0 +1,21 @@
+product_id,sku,product_name,description,category_id,brand_id,supplier_id,price,cost,weight_kg,is_active,created_at,updated_at
+1,SKU-000001,Básico Equipo 1,Descripción detallada del producto 1,3,9,5,61.05,26.25,31.3,true,2023-05-14,2024-01-30
+2,SKU-000002,Elite Equipo 2,Descripción detallada del producto 2,10,12,6,136.53,75.09,14.4,true,2022-09-05,2026-04-13
+3,SKU-000003,Básico Dispositivo 3,Descripción detallada del producto 3,2,9,7,413.58,248.15,38.2,true,2023-11-29,2025-07-22
+4,SKU-000004,Max Pack 4,Descripción detallada del producto 4,4,3,6,381.76,194.7,41.1,true,2023-06-16,2026-01-24
+5,SKU-000005,Mega Kit 5,Descripción detallada del producto 5,1,13,6,359.81,161.91,3.3,true,2022-03-01,2026-05-06
+6,SKU-000006,Max Herramienta 6,Descripción detallada del producto 6,10,10,8,23.74,15.43,43.5,true,2023-11-07,2025-08-12
+7,SKU-000007,Elite Artículo 7,Descripción detallada del producto 7,3,14,1,358.87,222.5,3.6,true,2023-06-10,2025-03-23
+8,SKU-000008,Max Kit 8,Descripción detallada del producto 8,3,1,1,83.62,33.45,17.8,false,2023-05-15,2025-10-05
+9,SKU-000009,Max Gadget 9,Descripción detallada del producto 9,1,14,8,284.21,142.11,38.8,true,2022-02-11,2025-01-31
+10,SKU-000010,Super Pack 10,Descripción detallada del producto 10,6,1,8,369.17,155.05,22.4,true,2022-09-27,2024-05-05
+11,SKU-000011,Mini Set 11,Descripción detallada del producto 11,10,10,4,62.03,32.88,46.7,false,2022-06-02,2025-01-20
+12,SKU-000012,Smart Producto 12,Descripción detallada del producto 12,2,14,5,187.64,80.69,17.2,true,2022-01-05,2024-04-18
+13,SKU-000013,Pro Equipo 13,Descripción detallada del producto 13,9,5,4,419.86,184.74,27.2,false,2023-09-03,2025-12-17
+14,SKU-000014,Elite Producto 14,Descripción detallada del producto 14,7,11,5,340.61,211.18,48.9,true,2023-09-23,2025-08-21
+15,SKU-000015,Super Pack 15,Descripción detallada del producto 15,7,14,5,177.82,122.7,36.9,true,2023-10-13,2025-02-22
+16,SKU-000016,Básico Gadget 16,Descripción detallada del producto 16,9,7,3,459.18,284.69,9.3,false,2023-08-13,2024-08-13
+17,SKU-000017,Mega Equipo 17,Descripción detallada del producto 17,9,10,3,235.52,129.54,41.1,true,2023-08-19,2024-07-11
+18,SKU-000018,Mega Dispositivo 18,Descripción detallada del producto 18,6,14,5,262.21,141.59,35.2,true,2022-09-07,2025-10-09
+19,SKU-000019,Super Kit 19,Descripción detallada del producto 19,6,6,7,445.9,205.11,11.8,true,2023-07-19,2024-04-25
+20,SKU-000020,Pro Widget 20,Descripción detallada del producto 20,3,4,4,492.47,285.63,18.8,true,2022-09-30,2024-10-29
